@@ -1,7 +1,7 @@
 # Ryosuke Araki @ryorsk
 I'm currently pursuing the Ph.D. degree with the Graduate School of Engineering. My research interests include computer vision and robot vision, especially deep learning for intelligent robotics. For more information on my research, publications and more, please visit the https://ryorsk.github.io (JP; Eng ver is under construction...).
 
-### I' am ...
+### I am ...
 - 🏫 2nd year doctoral student, Department of Computer Science, Graduate School of Engineering, Chubu University.
 - member of Machine Perception and Robotics Group (MPRG).
 - JSPS Research Fellowships for Young Scientists (DC2).
