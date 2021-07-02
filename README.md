@@ -3,7 +3,7 @@ I'm currently pursuing the Ph.D. degree with the Graduate School of Engineering.
 
 
 ### I am ...
-- 🏫 2nd year doctoral student, Department of Computer Science, Graduate School of Engineering, Chubu University.
+- 🏫 3rd year doctoral student, Department of Computer Science, Graduate School of Engineering, Chubu University.
 - 🏢 member of Machine Perception and Robotics Group (MPRG).
 - JSPS Research Fellowships for Young Scientists (DC2).
 - research member of cvpaper.challenge.
