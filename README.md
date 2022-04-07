@@ -3,12 +3,14 @@ I'm currently pursuing the Ph.D. degree with the Graduate School of Engineering.
 
 
 ### I am ...
-- 🏫 3rd year doctoral student, Department of Computer Science, Graduate School of Engineering, Chubu University.
-- 🏢 member of Machine Perception and Robotics Group (MPRG).
-- JSPS Research Fellowships for Young Scientists (DC2).
+- 🏢 engineer of ZOZO, Inc.,
+- 🏫 Ph. D. candidate, Department of Computer Science, Graduate School of Engineering, Chubu University.
 - research member of cvpaper.challenge.
 - 📡 amateur radio operator (Callsign: JR2SWR).
 
+### I was...
+- (2015-2022) member of Machine Perception and Robotics Group (MPRG).
+- (2020-2022) JSPS Research Fellowships for Young Scientists (DC2).
 
 ### Get in touch
 - Twitter: @ryors_k (JP)
