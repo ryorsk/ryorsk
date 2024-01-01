@@ -2,7 +2,7 @@
 I'm currently pursuing the Ph.D. degree with the Graduate School of Engineering. My research interests include computer vision and robot vision, especially deep learning for intelligent robotics. For more information on my research, publications and more, please visit the https://ryorsk.github.io (JP; Eng ver is under construction...).
 
 ### I am ...
-- 🏢 (2022-) engineer of ZOZO, Inc.,
+- 🏢 (2022-) engineer of ZOZO, Inc.
 - 🏫 (2022-) Ph. D. candidate, Department of Computer Science, Graduate School of Engineering, Chubu University.
 - 🖋️ (2018-) research member of cvpaper.challenge.
 - 🤝 (2024-) sole proprietor as an engineer.
