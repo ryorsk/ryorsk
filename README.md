@@ -1,21 +1,20 @@
 # Ryosuke Araki @ryorsk
 I'm currently pursuing the Ph.D. degree with the Graduate School of Engineering. My research interests include computer vision and robot vision, especially deep learning for intelligent robotics. For more information on my research, publications and more, please visit the https://ryorsk.github.io (JP; Eng ver is under construction...).
 
-
 ### I am ...
-- 🏢 engineer of ZOZO, Inc.,
-- 🏫 Ph. D. candidate, Department of Computer Science, Graduate School of Engineering, Chubu University.
-- research member of cvpaper.challenge.
-- 📡 amateur radio operator (Callsign: JR2SWR).
+- 🏢 (2022-) engineer of ZOZO, Inc.,
+- 🏫 (2022-) Ph. D. candidate, Department of Computer Science, Graduate School of Engineering, Chubu University.
+- 🖋️ (2018-) research member of cvpaper.challenge.
+- 🤝 (2024-) sole proprietor as an engineer.
+- 📡 (2014-) amateur radio operator (Callsign: JR2SWR).
 
 ### I was...
 - (2015-2022) member of Machine Perception and Robotics Group (MPRG).
 - (2020-2022) JSPS Research Fellowships for Young Scientists (DC2).
 
 ### Get in touch
-- Twitter: @ryors_k (JP)
+- X: @ryors_k (JP)
 - E-mail: ryorsk |at| mprg.cs.chubu.ac.jp
-
 
 ### Other links
 - Personal website: https://ryorsk.github.io
